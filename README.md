@@ -1,22 +1,109 @@
-![MasterHead](https://repository-images.githubusercontent.com/330349275/281486b8-097d-4fdb-a4a5-92fc485f920c)
-<h1 align="center">Hi 👋, I'm Chitra Prasad Acharya</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+# 👋 Hi, I'm Chitra Prasad Acharya
 
-<p align="left"> <img src="https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg" /> </p>
+### Full-Stack Software Developer | Angular • ASP.NET Core • Spring Boot
 
-- 🌱 I’m currently learning **Angular**
+🚀 Building modern web applications with clean UI, scalable APIs, and reliable database solutions.
 
-- 📫 How to reach me **chitraprasadacharya550@gmail.com**
+I'm a software developer from **Nepal** passionate about building end-to-end web applications, developing user-friendly interfaces, integrating REST APIs, and solving real-world problems through technology.
 
-<h3 align="left">Connect with me:</h3>
+I work with modern frontend and backend technologies and continuously improve my skills to build better, more maintainable software.
+
+- 🔭 **Currently working on:** Full-stack web application development
+- 🌱 **Currently learning:** Advanced ASP.NET Core, Entity Framework Core, and SQL Server
+- 💻 **Frontend:** Angular, TypeScript, JavaScript, HTML5, SCSS, Bootstrap
+- ⚙️ **Backend:** ASP.NET Core, C#, Spring Boot, Java, REST APIs
+- 🗄️ **Databases:** SQL Server, MySQL, PostgreSQL
+- 🛠️ **Tools:** Git, Bitbucket, Jira, Postman, Visual Studio
+- 📫 **Email:** [chitraprasadacharya550@gmail.com](mailto:chitraprasadacharya550@gmail.com)
+- 🌏 **Location:** Kathmandu, Nepal
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### 🎨 Frontend Development
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,bootstrap" alt="Frontend technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### ⚙️ Backend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chitraprsd7&show_icons=true&locale=en&layout=compact" alt="chitraprsd7" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,spring,java" alt="Backend technologies" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitraprsd7&show_icons=true&locale=en" alt="chitraprsd7" /></p>
+### 🗄️ Database & API Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitraprsd7&" alt="chitraprsd7" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,postman,visualstudio" alt="Database and development tools" />
+</p>
+
+**Also working with:** Microsoft SQL Server, Entity Framework Core, RESTful APIs, Git, Bitbucket, and Jira.
+
+---
+
+## 🚀 What I Do
+
+- Build responsive and reusable UI components with Angular.
+- Develop and integrate RESTful APIs using ASP.NET Core.
+- Work with C# and Entity Framework Core for backend development.
+- Design and query relational databases using SQL Server.
+- Develop backend applications using Java and Spring Boot.
+- Collaborate with teams to deliver maintainable, production-ready software.
+- Continuously learn new technologies and improve development practices.
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Hospital Management System**  
+A full-stack application concept for managing patients, doctors, appointments, departments, and hospital operations.
+
+*Tech Stack:* Angular • ASP.NET Core • C# • Entity Framework Core • SQL Server
+
+🔹 **ZingMate**  
+A social platform project focused on user interaction and modern web application development.
+
+*Tech Stack:* Angular • Spring Boot • Java • PostgreSQL
+
+Explore more projects on my [GitHub profile](https://github.com/ChitraPrsd7).
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChitraPrsd7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChitraPrsd7&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ChitraPrsd7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/ChitraPrsd7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:chitraprasadacharya550@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://chitraprasadacharya.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Great software is built with curiosity, consistency, and a commitment to keep improving.”</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile. Feel free to explore my repositories and connect!
+</p>
