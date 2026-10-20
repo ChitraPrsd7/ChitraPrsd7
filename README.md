@@ -1,80 +1,86 @@
-# 👋 Hi, I'm Chitra Prasad Acharya
+# Chitra Prasad Acharya
 
-### Full-Stack Software Developer | Angular • ASP.NET Core • Spring Boot
+### Full-Stack Software Developer | Angular · ASP.NET Core · Spring Boot
 
-🚀 Building modern web applications with clean UI, scalable APIs, and reliable database solutions.
+**Building scalable web applications, intuitive user interfaces, and reliable backend solutions.**
 
-I'm a software developer from **Nepal** passionate about building end-to-end web applications, developing user-friendly interfaces, integrating REST APIs, and solving real-world problems through technology.
+I'm a software developer based in Kathmandu, Nepal, focused on building modern web applications across the frontend and backend. I work with Angular and TypeScript to create responsive user experiences, integrate REST APIs, and improve existing applications. I also work with ASP.NET Core, C#, Java, and Spring Boot to expand my full-stack development capabilities.
 
-I work with modern frontend and backend technologies and continuously improve my skills to build better, more maintainable software.
+I value clean code, practical problem-solving, maintainable architecture, and continuous learning.
 
-- 🔭 **Currently working on:** Full-stack web application development
-- 🌱 **Currently learning:** Advanced ASP.NET Core, Entity Framework Core, and SQL Server
-- 💻 **Frontend:** Angular, TypeScript, JavaScript, HTML5, SCSS, Bootstrap
-- ⚙️ **Backend:** ASP.NET Core, C#, Spring Boot, Java, REST APIs
-- 🗄️ **Databases:** SQL Server, MySQL, PostgreSQL
-- 🛠️ **Tools:** Git, Bitbucket, Jira, Postman, Visual Studio
-- 📫 **Email:** [chitraprasadacharya550@gmail.com](mailto:chitraprasadacharya550@gmail.com)
-- 🌏 **Location:** Kathmandu, Nepal
+- **Currently working on:** Full-stack application development and API integration
+- **Backend focus:** ASP.NET Core, C#, Entity Framework Core, and SQL Server
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, SCSS, Bootstrap
+- **Backend:** ASP.NET Core, Spring Boot, Java, REST APIs
+- **Databases:** Microsoft SQL Server, PostgreSQL, MySQL
+- **Tools:** Git, Bitbucket, Jira, Postman, Visual Studio
+
+[Portfolio](https://chitraprasadacharya.com.np) · [GitHub](https://github.com/ChitraPrsd7) · [Email](mailto:chitraprasadacharya550@gmail.com)
 
 ---
 
-## 🧑‍💻 Tech Stack
+## TECHNICAL SKILLS
 
-### 🎨 Frontend Development
+### Frontend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,bootstrap" alt="Frontend technologies" />
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,bootstrap" alt="Angular, TypeScript, JavaScript, HTML, CSS, Sass and Bootstrap" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,spring,java" alt="Backend technologies" />
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,spring,java" alt=".NET, C#, Spring Boot and Java" />
 </p>
 
-### 🗄️ Database & API Tools
+### Databases & Development Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,postman,visualstudio" alt="Database and development tools" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,postman,visualstudio" alt="MySQL, PostgreSQL, Git, Postman and Visual Studio" />
 </p>
 
-**Also working with:** Microsoft SQL Server, Entity Framework Core, RESTful APIs, Git, Bitbucket, and Jira.
+**Additional technologies:** Microsoft SQL Server · Entity Framework Core · RESTful APIs · Bitbucket · Jira
 
 ---
 
-## 🚀 What I Do
+## WHAT I DO
 
-- Build responsive and reusable UI components with Angular.
-- Develop and integrate RESTful APIs using ASP.NET Core.
-- Work with C# and Entity Framework Core for backend development.
-- Design and query relational databases using SQL Server.
-- Develop backend applications using Java and Spring Boot.
-- Collaborate with teams to deliver maintainable, production-ready software.
-- Continuously learn new technologies and improve development practices.
-
----
-
-## 📌 Featured Projects
-
-🔹 **Hospital Management System**  
-A full-stack application concept for managing patients, doctors, appointments, departments, and hospital operations.
-
-*Tech Stack:* Angular • ASP.NET Core • C# • Entity Framework Core • SQL Server
-
-🔹 **ZingMate**  
-A social platform project focused on user interaction and modern web application development.
-
-*Tech Stack:* Angular • Spring Boot • Java • PostgreSQL
-
-Explore more projects on my [GitHub profile](https://github.com/ChitraPrsd7).
+- Develop responsive, reusable, and maintainable interfaces using Angular.
+- Integrate REST APIs and connect frontend applications with backend services.
+- Build backend functionality using ASP.NET Core and C#.
+- Work with Entity Framework Core and relational databases.
+- Develop Java-based backend applications using Spring Boot.
+- Debug existing applications, improve functionality, and resolve technical issues.
+- Collaborate with development teams to deliver reliable software solutions.
 
 ---
 
-## 📊 GitHub Statistics
+## FEATURED PROJECTS
+
+### Hospital Management System
+
+A full-stack hospital management application designed to organize essential hospital workflows, including patient records, doctor management, appointments, departments, and related operations.
+
+**Technology stack:** Angular · ASP.NET Core · C# · Entity Framework Core · SQL Server
+
+**Focus areas:** REST API integration, relational data management, authentication, role-based access, and modular application architecture.
+
+### ZingMate
+
+A social platform project focused on user interaction, modern application design, and full-stack web development.
+
+**Technology stack:** Angular · Spring Boot · Java · PostgreSQL
+
+**Focus areas:** Frontend architecture, backend API development, database integration, and user-centered application experiences.
+
+**Explore more:** [View all my repositories on GitHub →](https://github.com/ChitraPrsd7?tab=repositories)
+
+---
+
+## GITHUB ANALYTICS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChitraPrsd7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChitraPrsd7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChitraPrsd7&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
@@ -84,26 +90,26 @@ Explore more projects on my [GitHub profile](https://github.com/ChitraPrsd7).
 
 ---
 
-## 🤝 Connect With Me
+## CONNECT
 
-<p align="left">
+<p>
   <a href="https://github.com/ChitraPrsd7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:chitraprasadacharya550@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://chitraprasadacharya.com.np">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:chitraprasadacharya550@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Great software is built with curiosity, consistency, and a commitment to keep improving.”</i>
+  <i>Writing clean code. Solving real problems. Building better software.</i>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile. Feel free to explore my repositories and connect!
+  Thanks for visiting my profile!
 </p>
